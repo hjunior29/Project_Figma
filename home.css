@@ -1,0 +1,1082 @@
+.first-fold {
+    position: absolute;
+    width: 1920px;
+    height: 1080px;
+    left: 0px;
+    top: 0px;
+
+    background: #ffffff;
+}
+.logo img {
+    position: absolute;
+    width: 123px;
+    height: 114px;
+    left: 73px;
+    top: 57px;
+}
+.header_home {
+    position: absolute;
+    width: 65px;
+    height: 25px;
+    left: 384px;
+    top: 101px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 21px;
+    line-height: 25px;
+    text-transform: uppercase;
+}
+.header_order {
+    position: absolute;
+    width: 131px;
+    height: 25px;
+    left: 490px;
+    top: 101px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 21px;
+    line-height: 25px;
+    text-transform: uppercase;
+    color: #FF0000;
+}
+.header_menu {
+    position: absolute;
+    width: 63px;
+    height: 25px;
+    left: 681px;
+    top: 101px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 21px;
+    line-height: 25px;
+    text-transform: uppercase;
+
+    color: #FF0000;
+}
+.header_location {
+    position: absolute;
+    width: 109px;
+    height: 25px;
+    left: 788px;
+    top: 101px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 21px;
+    line-height: 25px;
+    text-transform: uppercase;
+
+    color: #FF0000;}
+.rectangle {
+    position: absolute;
+    width: 960px;
+    height: 1080px;
+    left: 960px;
+    top: 0px;
+
+    background: #FF0000;
+}
+.hamburguer img{
+    align-content: center;
+    position: absolute;
+    width: 702px;
+    height: 702px;
+    left: 609px;
+    top: 189px;
+}
+.tel {
+    position: absolute;
+    width: 274px;
+    height: 31px;
+    left: 1441px;
+    top: 98px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 31px;
+    text-transform: uppercase;
+
+    color: #FFFFFF;
+}
+.Cart {
+    position: absolute;
+    width: 61px;
+    height: 71px;
+    left: 1749px;
+    top: 78px;
+}
+.elipse {
+    position: absolute;
+    width: 222px;
+    height: 222px;
+    border-radius: 50%;
+    left: 1129px;
+    top: 233px;
+
+    background: #FFFFFF;
+    box-shadow: 9px 12px 15px rgba(0, 0, 0, 0.25);
+}
+.price {
+    position: absolute;
+    width: 181px;
+    height: 79px;
+    left: 1150px;
+    top: 305px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 65px;
+    line-height: 79px;
+
+    color: #FF0000;
+}
+.text_1 {
+    position: absolute;
+    width: 510px;
+    height: 62px;
+    left: 73px;
+    top: 455px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 87px;
+    line-height: 62px;
+    /* identical to box height, or 71% */
+
+
+    color: #464444;
+}
+.text_2 {
+    position: absolute;
+    width: 510px;
+    height: 93px;
+    left: 77px;
+    top: 569px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 26px;
+    line-height: 31px;
+
+    color: #BEBEBE;
+}
+.botton {
+    position: absolute;
+    width: 204px;
+    height: 60px;
+    left: 73px;
+    top: 714px;
+
+    background: #FF0303;
+    border-radius: 20px;
+}
+.botton_text {
+    position: absolute;
+    width: 144px;
+    height: 27px;
+    left: 103px;
+    top: 730px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 27px;
+    /* identical to box height */
+
+
+    color: #FFFFFF;
+}
+.text_3 {
+    position: absolute;
+    width: 286px;
+    height: 62px;
+    left: 1320px;
+    top: 483px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 44px;
+    line-height: 62px;
+    /* identical to box height, or 141% */
+
+
+    color: #FAFF00;
+}
+.text_4 {
+    position: absolute;
+    width: 306px;
+    height: 62px;
+    left: 1320px;
+    top: 556px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 26px;
+    line-height: 31px;
+
+    color: #FFFFFF;
+}
+
+.burguer {
+    position: absolute;
+    width: 857px;
+    height: 309px;
+    left: 1300px;
+    top: 500px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 255px;
+    line-height: 309px;
+
+    color: #000000;
+    opacity: 0.15;
+    transform: rotate(-90deg);
+
+}
+.our_especial {
+    position: absolute;
+    width: 176px;
+    height: 62px;
+    left: 883px;
+    top: 1224px;
+
+    font-family: 'Indie Flower';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 38px;
+    line-height: 62px;
+    /* identical to box height, or 163% */
+
+
+    color: #FF0000;
+}
+.dine {
+    position: absolute;
+    width: 744px;
+    height: 62px;
+    left: 599px;
+    top: 1313px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 87px;
+    line-height: 62px;
+    /* identical to box height, or 71% */
+
+
+    color: #464444;
+}
+.box_products {
+    position: absolute;
+    width: 376px;
+    height: 620px;
+    left: 175px;
+    top: 1519px;
+
+    background: #FFFFFF;
+    box-shadow: 13px 13px 30px rgba(0, 0, 0, 0.15);
+    border-radius: 20px;
+}
+.cart_red {
+    position: absolute;
+    width: 61px;
+    height: 71px;
+    left: 219px;
+    top: 2038px;
+}
+.botton_products {
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 204px;
+    height: 60px;
+    left: 305px;
+    top: 2044px;
+
+    border: 1px solid #FF0000;
+    border-radius: 20px;
+}
+.botton_text_products {
+    position: absolute;
+    width: 144px;
+    height: 27px;
+    left: 335px;
+    top: 2060px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 27px;
+    /* identical to box height */
+
+
+    color: #FF0000;
+}
+.name_products {
+    position: absolute;
+    width: 376px;
+    height: 84px;
+    left: 175px;
+    top: 1859px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 43px;
+    line-height: 62px;
+
+    text-align: center;
+
+    color: #FF0000;
+}
+.description {
+    position: absolute;
+    width: 318px;
+    height: 85px;
+    left: 204px;
+    top: 1943.57px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 26px;
+    line-height: 31px;
+    text-align: center;
+
+    color: #989898;
+}
+.image_product {
+    position: absolute;
+    width: 270px;
+    height: 306px;
+    left: 228px;
+    top: 1539px;
+}
+.box_products2 {
+    position: absolute;
+    width: 376px;
+    height: 620px;
+    left: 643px;
+    top: 1519px;
+
+    background: #FFFFFF;
+    box-shadow: 13px 13px 30px rgba(0, 0, 0, 0.15);
+    border-radius: 20px;
+}
+.cart_red2 {
+    position: absolute;
+    width: 61px;
+    height: 71px;
+    left: 687px;
+    top: 2038px;
+}
+.botton_products2 {
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 204px;
+    height: 60px;
+    left: 773px;
+    top: 2044px;
+
+    border: 1px solid #FF0000;
+    border-radius: 20px;
+}
+.botton_text_products2 {
+    position: absolute;
+    width: 144px;
+    height: 27px;
+    left: 803px;
+    top: 2060px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 27px;
+    /* identical to box height */
+
+
+    color: #FF0000;
+}
+.name_products2 {
+    position: absolute;
+    width: 376px;
+    height: 84px;
+    left: 643px;
+    top: 1859px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 43px;
+    line-height: 62px;
+
+    text-align: center;
+
+    color: #FF0000;
+}
+.description2{
+    position: absolute;
+    width: 318px;
+    height: 85px;
+    left: 672px;
+    top: 1943.57px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 26px;
+    line-height: 31px;
+    text-align: center;
+
+    color: #989898;
+}
+.image_product2 {
+    position: absolute;
+    width: 270px;
+    height: 306px;
+    left: 696px;
+    top: 1539px;
+}
+.box_products3 {
+    position: absolute;
+    width: 376px;
+    height: 620px;
+    left: 1111px;
+    top: 1519px;
+
+    background: #FFFFFF;
+    box-shadow: 13px 13px 30px rgba(0, 0, 0, 0.15);
+    border-radius: 20px;
+}
+.cart_red3 {
+    position: absolute;
+    width: 61px;
+    height: 71px;
+    left: 1155px;
+    top: 2038px;
+}
+.botton_products3 {
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 204px;
+    height: 60px;
+    left: 1241px;
+    top: 2044px;
+
+    border: 1px solid #FF0000;
+    border-radius: 20px;
+}
+.botton_text_products3 {
+    position: absolute;
+    width: 144px;
+    height: 27px;
+    left: 1271px;
+    top: 2060px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 27px;
+    /* identical to box height */
+
+
+    color: #FF0000;
+}
+.name_products3 {
+    position: absolute;
+    width: 376px;
+    height: 84px;
+    left: 1111px;
+    top: 1859px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 43px;
+    line-height: 62px;
+    /* or 144% */
+
+    text-align: center;
+
+    color: #FF0000;
+
+}
+.description3{
+    position: absolute;
+    width: 318px;
+    height: 85px;
+    left: 1140px;
+    top: 1943.57px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 26px;
+    line-height: 31px;
+    text-align: center;
+
+    color: #989898;
+}
+.image_product3 {
+    position: absolute;
+    width: 270px;
+    height: 306px;
+    left: 1164px;
+    top: 1539px;
+}
+
+
+.box_products4 {
+    position: absolute;
+    width: 376px;
+    height: 620px;
+    left: 175px;
+    top: 2268px;
+
+    background: #FFFFFF;
+    box-shadow: 13px 13px 30px rgba(0, 0, 0, 0.15);
+    border-radius: 20px;
+}
+.cart_red4 {
+    position: absolute;
+    width: 61px;
+    height: 71px;
+    left: 219px;
+    top: 2787px;
+}
+.botton_products4 {
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 204px;
+    height: 60px;
+    left: 305px;
+    top: 2793px;
+
+    border: 1px solid #FF0000;
+    border-radius: 20px;
+}
+.botton_text_products4 {
+    position: absolute;
+    width: 144px;
+    height: 27px;
+    left: 335px;
+    top: 2809px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 27px;
+    /* identical to box height */
+
+
+    color: #FF0000;
+}
+.name_products4 {
+    position: absolute;
+    width: 376px;
+    height: 84px;
+    left: 175px;
+    top: 2608px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 43px;
+    line-height: 62px;
+    /* or 144% */
+
+    text-align: center;
+
+    color: #FF0000;
+}
+.description4{
+    position: absolute;
+    width: 318px;
+    height: 85px;
+    left: 204px;
+    top: 2692.57px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 26px;
+    line-height: 31px;
+    text-align: center;
+
+    color: #989898;
+}
+.image_product4 {
+    position: absolute;
+    width: 270px;
+    height: 306px;
+    left: 228px;
+    top: 2288px;
+
+}
+
+
+.box_products5 {
+    position: absolute;
+    width: 376px;
+    height: 620px;
+    left: 643px;
+    top: 2268px;
+
+    background: #FFFFFF;
+    box-shadow: 13px 13px 30px rgba(0, 0, 0, 0.15);
+    border-radius: 20px;
+}
+.cart_red5 {
+    position: absolute;
+    width: 61px;
+    height: 71px;
+    left: 687px;
+    top: 2787px;
+
+}
+.botton_products5 {
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 204px;
+    height: 60px;
+    left: 773px;
+    top: 2793px;
+
+    border: 1px solid #FF0000;
+    border-radius: 20px;
+}
+.botton_text_products5 {
+    position: absolute;
+    width: 144px;
+    height: 27px;
+    left: 803px;
+    top: 2809px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 27px;
+    /* identical to box height */
+
+
+    color: #FF0000;
+}
+.name_products5 {
+    position: absolute;
+    width: 376px;
+    height: 84px;
+    left: 643px;
+    top: 2608px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 43px;
+    line-height: 62px;
+    /* or 144% */
+
+    text-align: center;
+
+    color: #FF0000;
+}
+.description5{
+    position: absolute;
+    width: 318px;
+    height: 85px;
+    left: 672px;
+    top: 2692.57px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 26px;
+    line-height: 31px;
+    text-align: center;
+
+    color: #989898;
+}
+.image_product5 {
+    position: absolute;
+    width: 270px;
+    height: 306px;
+    left: 696px;
+    top: 2288px;
+}
+
+
+.box_products6 {
+    position: absolute;
+    width: 376px;
+    height: 620px;
+    left: 1111px;
+    top: 2268px;
+
+    background: #FFFFFF;
+    box-shadow: 13px 13px 30px rgba(0, 0, 0, 0.15);
+    border-radius: 20px;
+}
+.cart_red6 {
+    position: absolute;
+    width: 61px;
+    height: 71px;
+    left: 1155px;
+    top: 2787px;
+}
+.botton_products6 {
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 204px;
+    height: 60px;
+    left: 1241px;
+    top: 2793px;
+
+    border: 1px solid #FF0000;
+    border-radius: 20px;
+}
+.botton_text_products6 {
+    position: absolute;
+    width: 144px;
+    height: 27px;
+    left: 1271px;
+    top: 2809px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 27px;
+    /* identical to box height */
+
+
+    color: #FF0000;
+}
+.name_products6 {
+    position: absolute;
+    width: 376px;
+    height: 84px;
+    left: 1111px;
+    top: 2608px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 43px;
+    line-height: 62px;
+    /* or 144% */
+
+    text-align: center;
+
+    color: #FF0000;
+}
+.description6{
+    position: absolute;
+    width: 318px;
+    height: 85px;
+    left: 1140px;
+    top: 2692.57px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 26px;
+    line-height: 31px;
+    text-align: center;
+
+    color: #989898;
+}
+.image_product6 {
+
+    position: absolute;
+    width: 270px;
+    height: 306px;
+    left: 1164px;
+    top: 2288px;
+}
+
+.menu {
+    position: absolute;
+    width: 913px;
+    height: 409px;
+    left: 1300px;
+    top: 1929px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 255px;
+    line-height: 309px;
+
+    color: #000000;
+
+    opacity: 0.05;
+
+    transform: rotate(-90deg);
+}
+
+.rectangle_2 {
+    position: absolute;
+    width: 640px;
+    height: 452px;
+    left: 0px;
+    top: 3123px;
+
+    background: #FA5454;
+}
+.chicha {
+    position: absolute;
+    width: 348px;
+    height: 508px;
+    left: 300px;
+    top: 3065px;
+}
+.rectangle_3 {
+
+    position: absolute;
+    width: 653px;
+    height: 451px;
+    left: 627px;
+    top: 3123px;
+
+    background: #FAFF00;
+}
+.friend {
+    position: absolute;
+    width: 252px;
+    height: 625.93px;
+    left: 1010px;
+    top: 2995px;
+}
+.rectangle_4 {
+
+    position: absolute;
+    width: 640px;
+    height: 454px;
+    left: 1254px;
+    top: 3123px;
+
+    background: #F79752;
+}
+.grill {
+    position: absolute;
+    width: 328px;
+    height: 599px;
+    left: 1565px;
+    top: 3000px;
+}
+.chicha_text {
+    position: absolute;
+    width: 344px;
+    height: 84px;
+    left: 0px;
+    top: 3400px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 47px;
+    line-height: 62px;
+    /* or 132% */
+
+
+    color: #FFFFFF;
+}
+.friend_text {
+    position: absolute;
+    width: 378px;
+    height: 84px;
+    left: 630px;
+    top: 3400px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 47px;
+    line-height: 62px;
+    /* or 132% */
+
+
+    color: #FFFFFF;
+}
+.grill_text {
+    position: absolute;
+    width: 352px;
+    height: 84px;
+    left: 1250px;
+    top: 3400px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 47px;
+    line-height: 62px;
+    /* or 132% */
+
+
+    color: #FFFFFF;
+}
+.botton_chicha {
+    position: absolute;
+    width: 204px;
+    height: 60px;
+    left: 0px;
+    top: 3480px;
+
+    background: #ffffff;
+    border-radius: 20px;
+}
+.botton_friend {
+    position: absolute;
+    width: 204px;
+    height: 60px;
+    left: 630px;
+    top: 3480px;
+
+    background: #ffffff;
+    border-radius: 20px;
+}
+.botton_grill {
+    position: absolute;
+    width: 204px;
+    height: 60px;
+    left: 1250px;
+    top: 3480px;
+
+    background: #ffffff;
+    border-radius: 20px;
+}
+.botton_order_now {
+    position: absolute;
+    width: 144px;
+    height: 27px;
+    left: 15px;
+    top: 15px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 27px;
+    /* identical to box height */
+
+
+    color: #FF0000;
+}
+.end_fold {
+    position: absolute;
+    width: 1920px;
+    height: 1268px;
+    left: 0px;
+    top: 3575px;
+
+    background: #FFFFFF;
+}
+.social {
+    width: 348px;
+    height: 508px;
+    left: 300px;
+    top: 4000px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 255px;
+    line-height: 309px;
+
+    color: #000000;
+
+    transform: rotate(-90deg);
+    opacity: 0.05;
+
+}
+.insta {
+    position: absolute;
+    width: 976px;
+    height: 62px;
+    left: 646px;
+    top: 198px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 87px;
+    line-height: 62px;
+    /* identical to box height, or 71% */
+
+
+    color: #464444;
+}
+.text_insta {
+    position: absolute;
+    width: 864px;
+    height: 92px;
+    left: 702px;
+    top: 290px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 35px;
+    line-height: 46px;
+    /* or 131% */
+
+    text-align: center;
+    letter-spacing: -0.02em;
+
+    color: #A9A5A5;
+}
+#insta1 {
+    position: absolute;
+    width: 410px;
+    height: 410px;
+    left: 411px;
+    top: 4115px;
+}
+#insta2 {
+    position: absolute;
+    width: 410px;
+    height: 410px;
+    left: 876px;
+    top: 4115px;
+}
+#insta3 {
+    position: absolute;
+    width: 410px;
+    height: 410px;
+    left: 1341px;
+    top: 4115px;
+}
+#insta4 {
+    position: absolute;
+    width: 140px;
+    height: 410px;
+    left: 1806px;
+    top: 4115px;
+}
